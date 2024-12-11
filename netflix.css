@@ -1111,7 +1111,6 @@ button#mov24 {
       width: 40%;
       display: flex;
       flex-direction: row;
-      margin-right: -5%;
     }
     .navbar-brand {
       display: none;
@@ -1124,6 +1123,8 @@ button#mov24 {
     }
     li#lang.nav-item.dropdown {
       width: 40%;
+      margin-left: 5%;
+      margin-right: 5%;
     }
     a#langmob.nav-link.dropdown-toggle::after {
       font-size: 2rem;
