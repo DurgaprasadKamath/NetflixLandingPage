@@ -1,0 +1,3 @@
+This is a Netflix landing page clone created for educational and skill development purposes only. All content, including images, text, and branding, is used to replicate the design and functionality of the original Netflix website for non-commercial use.
+
+The project does not claim any affiliation with or endorsement by Netflix, Inc. All trademarks, logos, and copyrights belong to their respective owners. No actual streaming services or memberships are provided through this clone.
